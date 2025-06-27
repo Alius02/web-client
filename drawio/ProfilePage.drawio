@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram id="profile" name="ProfilePage">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=1;fillColor=#1976d2;strokeColor=#1976d2;" parent="1" vertex="1">
+          <mxGeometry x="9" width="800" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Home   About   To-Do   Profile   Logout" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#ffffff;" parent="2" vertex="1">
+          <mxGeometry x="20" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Профіль" style="text;html=1;align=left;verticalAlign=middle;fontSize=24;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="59" y="70" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#cccccc;" parent="1" vertex="1">
+          <mxGeometry x="59" y="120" width="700" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Ім&#39;я:" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" parent="5" vertex="1">
+          <mxGeometry x="20" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="test" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#333333;" parent="5" vertex="1">
+          <mxGeometry x="220" y="20" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Email:" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" parent="5" vertex="1">
+          <mxGeometry x="20" y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="test@gmail.com" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#333333;" parent="5" vertex="1">
+          <mxGeometry x="220" y="60" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Стать:" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" parent="5" vertex="1">
+          <mxGeometry x="20" y="100" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="M" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#333333;" parent="5" vertex="1">
+          <mxGeometry x="220" y="100" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Дата народження:" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" parent="5" vertex="1">
+          <mxGeometry x="20" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="2005-08-10" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#333333;" parent="5" vertex="1">
+          <mxGeometry x="220" y="140" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="РЕДАГУВАТИ ПРОФІЛЬ" style="rounded=1;fillColor=#ffffff;strokeColor=#1976d2;fontColor=#1976d2;" parent="5" vertex="1">
+          <mxGeometry x="270" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

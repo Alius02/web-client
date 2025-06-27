@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram id="register" name="RegisterPage">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=1;fillColor=#1976d2;strokeColor=#1976d2;" parent="1" vertex="1">
+          <mxGeometry x="14" width="800" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Home   About   To-Do   Login   Register" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="34" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#cccccc;" parent="1" vertex="1">
+          <mxGeometry x="64" y="70" width="700" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Реєстрація" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="14" y="80" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Ім&#39;я" style="rounded=1;fillColor=#ffffff;strokeColor=#888888;fontColor=#888888;" parent="1" vertex="1">
+          <mxGeometry x="104" y="140" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Email" style="rounded=1;fillColor=#ffffff;strokeColor=#888888;fontColor=#888888;" parent="1" vertex="1">
+          <mxGeometry x="424" y="140" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Стать:" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="104" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Ч" style="rounded=1;fillColor=#1976d2;strokeColor=#1976d2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="164" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Ж" style="rounded=1;fillColor=#ffffff;strokeColor=#1976d2;fontColor=#1976d2;" parent="1" vertex="1">
+          <mxGeometry x="234" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Дата народження" style="rounded=1;fillColor=#ffffff;strokeColor=#888888;fontColor=#888888;" parent="1" vertex="1">
+          <mxGeometry x="424" y="190" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Пароль" style="rounded=1;fillColor=#ffffff;strokeColor=#888888;fontColor=#888888;" parent="1" vertex="1">
+          <mxGeometry x="104" y="240" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Підтвердити пароль" style="rounded=1;fillColor=#ffffff;strokeColor=#888888;fontColor=#888888;" parent="1" vertex="1">
+          <mxGeometry x="424" y="240" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="ЗАРЕЄСТРУВАТИСЯ" style="rounded=1;fillColor=#1976d2;strokeColor=#1976d2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="344" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
